@@ -1,7 +1,7 @@
 <p align="center">
-  ![](assets/TelaPrincipal.jpg)
+  ![](./assets/TelaPrincipal.JPG)
 </p>
-
+![Alt Text](https://github.com/murilopacheco98/register-front/blob/master/src/assets/telaprincipal.jpg)
 <h1>
   <p align="center">
   Projeto Tela de cadastro com ReactJs
